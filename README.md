@@ -1,9 +1,11 @@
 # Ref
 - Main details https://www.youtube.com/watch?v=UtR56KPKzGQ
-- https://www.youtube.com/watch?v=0Ht5PUiWlOs
+- Build details https://www.youtube.com/watch?v=0Ht5PUiWlOs
+  - T-nut gap 0.2 m
+  - Plywood frame shouldn't cover T-nut holes (brick pattern 6.58)
 
 # Degree
-  - 40 + 0 (if possible)
+  - 40 (35 for more space?) + 0 (if possible)
 
 # Tools
   - drill
@@ -13,12 +15,16 @@
 # Material
 ## Structure
   - Expect: MGP10 gray pine 2x6 inches (45x140 mm)
-  - Plan: Teng wood
+  - Plan: Teng wood, Dang wood (Structural wood)
 ## Plywood
-  - Expect: non structural 18 mm CD grade (2000x2400 mm)
+  - Expect: non structural 22 mm CD grade (2000x2400 mm)
+    - Optional: 18mm (might be considered?)
   - Tip when drill it: align them as layers > clamp them together > drill just once
 ## T-Nuts (has 3 types)
   - zinc, stainless steel, screwing
+  - Setup
+    - Able to access back of playwood - Hammer T-nut
+    - Otherwise - Screw T-nut
   - https://www.youtube.com/watch?v=Tc4yTU5Mtd0
 ## Fastener screws
   - wooden screw 3/8 (need around 150++)
