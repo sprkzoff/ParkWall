@@ -17,8 +17,8 @@
   - Expect: MGP10 gray pine 2x6 inches (45x140 mm)
   - Plan: Teng wood, Dang wood (Structural wood)
 ## Plywood
-  - Expect: non structural 22 mm CD grade (2000x2400 mm)
-    - Optional: 18mm (might be considered?)
+  - Expect: non structural 18 mm CD grade (2000x2400 mm)
+    - Optional: 22mm (might be considered? longer bold needed non standard)
   - Tip when drill it: align them as layers > clamp them together > drill just once
 ## T-Nuts (has 3 types)
   - zinc, stainless steel, screwing
