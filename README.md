@@ -3,6 +3,7 @@
 - Build details https://www.youtube.com/watch?v=0Ht5PUiWlOs
   - T-nut gap 0.2 m
   - Plywood frame shouldn't cover T-nut holes (brick pattern 6.58)
+- MISC https://www.holdsmarket.com/en/content/7-faq
 
 # Degree
   - 40 (35 for more space?) + 0 (if possible)
