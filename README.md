@@ -1,4 +1,6 @@
-Ref: https://www.youtube.com/watch?v=UtR56KPKzGQ
+# Ref
+- Main details https://www.youtube.com/watch?v=UtR56KPKzGQ
+- https://www.youtube.com/watch?v=0Ht5PUiWlOs
 
 # Degree
   - 40 + 0 (if possible)
