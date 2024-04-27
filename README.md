@@ -29,3 +29,6 @@ Ref: https://www.youtube.com/watch?v=UtR56KPKzGQ
 - https://climbingholds.net/product/serentity-two-eu-pu/ 120 * 2
 - https://climbingholds.net/product/zoom-boom-eu-pu/ 109
 - https://climbingholds.net/product/vertibrae-eu-pu/ 89
+
+## 2nd hand holds
+- https://www.facebook.com/ProclimberThailand (?)
