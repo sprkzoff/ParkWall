@@ -27,7 +27,7 @@
     - Otherwise - Screw T-nut
   - https://www.youtube.com/watch?v=Tc4yTU5Mtd0
 ## Fastener screws
-  - wooden screw 3/8 (need around 150++)
+  - wooden screw 3/8 m10 (need around 150++)
   - pre drill the holes then run 3/8 screw through it
 ## Medal bracket (90 deg steel)
 
