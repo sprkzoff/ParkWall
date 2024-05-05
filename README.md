@@ -1,7 +1,7 @@
 # Ref
 - Main details https://www.youtube.com/watch?v=UtR56KPKzGQ
 - Build details https://www.youtube.com/watch?v=0Ht5PUiWlOs
-  - T-nut gap 6 inches
+  - T-nut gap 6 inches, padding 3 inches
   - Plywood frame shouldn't cover T-nut holes (brick pattern 6.58)
 - Creating hold https://www.instructables.com/Making-your-own-climbing-holds/
 - MISC https://www.holdsmarket.com/en/content/7-faq
