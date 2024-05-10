@@ -34,7 +34,7 @@
 ## Medal bracket (90 deg steel)
 
 # Cost
-## Holes 523 w/o VAT + shipping
+## Holds 523 w/o VAT + shipping
 - https://climbingholds.net/product/blades-eu-pu/ 85
 - https://climbingholds.net/product/serentity-two-eu-pu/ 120 * 2
 - https://climbingholds.net/product/zoom-boom-eu-pu/ 109
