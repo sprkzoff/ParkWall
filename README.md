@@ -22,6 +22,7 @@
   - Expect: non structural 18 mm CD grade (2000x2400 mm)
     - Optional: 22mm (might be considered? longer bold needed non standard)
   - Tip when drill it: align them as layers > clamp them together > drill just once
+  - Birchwood (https://birchwoodth.com/)
 ## T-Nuts (has 3 types)
   - zinc, stainless steel, screwing
   - Setup
