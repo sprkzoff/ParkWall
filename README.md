@@ -43,3 +43,6 @@
 
 ## 2nd hand holds
 - https://www.facebook.com/ProclimberThailand (?)
+
+# Structure plan
+https://app.sketchup.com/share/tc/asia/PipMb20B_a0?stoken=ekMk4Bp7ugzZbsiaghdq7iaAMQRx68ttdjNPj1PbodBPfXRmX713ypYB58KB1M8K&source=web
